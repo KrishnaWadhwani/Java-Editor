@@ -9,3 +9,13 @@
 # In This Update
 1) You Can Now Customize Fonts
 2) Editor Icon Added
+# Link To Main Java Code In This Repository
+https://github.com/KrishnaWadhwani/Java_Editor/blob/main/src/com/company/Main.java
+
+Path To Java File ```src/com/company/Main.java```
+# Security Policy
+
+https://github.com/KrishnaWadhwani/Java_Editor/security/policy
+# Java_Editor Wiki
+
+https://github.com/KrishnaWadhwani/Java_Editor/wiki
