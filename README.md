@@ -6,3 +6,6 @@
 1) Run Java Function
 2) Text Highlighting
 3) Code Autocompletion
+# In This Update
+1) You Can Now Customize Fonts
+2) Editor Icon Added
