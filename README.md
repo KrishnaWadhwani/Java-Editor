@@ -20,7 +20,7 @@
 5) ```DialogInput```
 
 Note: You Can Costumize The Fonts
-Read This: https://github.com/KrishnaWadhwani/Java_Editor/wiki/_new
+Read This: https://github.com/KrishnaWadhwani/Java_Editor/wiki/Costumize-Fonts
 # Link To Main Java Code In This Repository
 https://github.com/KrishnaWadhwani/Java_Editor/blob/main/src/com/company/Main.java
 
