@@ -18,7 +18,7 @@
 3) ```Monospaced```
 4) ```Dialog```
 5) ```DialogInput```
-# Issue(s)
+# [Issue(s)](https://github.com/KrishnaWadhwani/Java-Editor/issues)
 1) It Can't Run Without Intelli J Idea - I Am Trying To Fix It
 2) If You Are Able To Solve This Error: 
 
@@ -38,3 +38,7 @@ https://github.com/KrishnaWadhwani/Java_Editor/security/policy
 # Java_Editor Wiki
 
 https://github.com/KrishnaWadhwani/Java_Editor/wiki
+
+# Credits
+1) Currently Delveloped And Maintained By Krishna Wadhwani
+2) I Will Welcome New Comers For Contribution
