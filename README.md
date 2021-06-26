@@ -18,6 +18,13 @@
 3) ```Monospaced```
 4) ```Dialog```
 5) ```DialogInput```
+# Issue(s)
+1) It Can't Run Without Intelli J Idea - I Am Trying To Fix It
+2) If You Are Able To Solve This Error: 
+
+```Exception in thread "main" java.lang.UnsatisfiedLinkError: Can't load library: /usr/lib/jvm/java-11-openjdk-amd64/lib/libawt_xawt.so```
+
+Please Contact Me On: [My Mail](kwswhwmw@gmail.com)
 
 Note: You Can Costumize The Fonts
 Read This: https://github.com/KrishnaWadhwani/Java_Editor/wiki/Costumize-Fonts
