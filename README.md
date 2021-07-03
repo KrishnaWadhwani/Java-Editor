@@ -42,3 +42,8 @@ https://github.com/KrishnaWadhwani/Java_Editor/wiki
 # Credits
 1) Currently Delveloped And Maintained By Krishna Wadhwani
 2) I Will Welcome New Comers For Contribution
+
+# Stats Of This Repository
+
+[![Stats](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaWadhwani&repo=Java-Editor&theme=dracula)](https://github.com/KrishnaWadhwani)
+
